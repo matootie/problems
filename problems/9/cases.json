@@ -1,0 +1,38 @@
+[
+  {
+    "input": [
+      121
+    ],
+    "output": true
+  },
+  {
+    "input": [
+      -121
+    ],
+    "output": false
+  },
+  {
+    "input": [
+      10
+    ],
+    "output": false
+  },
+  {
+    "input": [
+      12345678900987654321
+    ],
+    "output": true
+  },
+  {
+    "input": [
+      0
+    ],
+    "output": true
+  },
+  {
+    "input": [
+      123210
+    ],
+    "output": false
+  }
+]
