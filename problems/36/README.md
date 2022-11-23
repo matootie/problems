@@ -2,9 +2,9 @@
 
 |  |  |
 | --- | --- |
-| Link | https://leetcode.com/problems/word-search-ii/ |
-| Difficulty | Hard |
-| Related Topics | Array, String, Backtracking, Trie, Matrix |
+| Link | https://leetcode.com/problems/valid-sudoku/ |
+| Difficulty | Medium |
+| Related Topics | Array, Hash Table, Matrix |
 | Submission | https://leetcode.com/submissions/detail/848727881/ |
 
 Determine if a `9 x 9` Sudoku board is valid. Only the filled cells need to be validated **according to the following rules**:
