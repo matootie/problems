@@ -1,5 +1,12 @@
 # 9. Palindrome Number
 
+|  |  |
+| --- | --- |
+| Link | https://leetcode.com/problems/palindrome-number/ |
+| Difficulty | Easy |
+| Related Topics | Math |
+| Submission | https://leetcode.com/submissions/detail/847537038/ |
+
 Given an integer `x`, return `true` _if `x` is a **palindrome**, and `false` otherwise._
 
 **Example 1:**
